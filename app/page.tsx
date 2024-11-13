@@ -29,6 +29,7 @@ export default function Home() {
     "Node.js",
     "Python",
     "TailwindCSS",
+    "Google Gemini"
   ];
 
   const projects = [
