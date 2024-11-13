@@ -33,9 +33,9 @@ export default function Home() {
 
   const projects = [
     {
-      title: "AI Code Generator",
-      description: "Built an AI-powered code generation tool that writes better code than humans.",
-      tech: ["OpenAI", "TypeScript", "Next.js"],
+      title: "Portfolio",
+      description: "Built an typescript-powered portfolio website.",
+      tech: ["TypeScript", "Next.js"],
     }
   ];
 
